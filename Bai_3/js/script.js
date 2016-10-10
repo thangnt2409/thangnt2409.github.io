@@ -1,7 +1,7 @@
 var a= true;
 function one() {
 	if(a==false){
-				document.getElementById('nd1').style.height="95px";
+				document.getElementById('nd1').style.height="100px";
 				a=true;
 				}else
 				{
@@ -13,7 +13,7 @@ function one() {
 function two() {
 	
 	if(a==false){
-				document.getElementById('nd2').style.height="95px";
+				document.getElementById('nd2').style.height="100px";
 				a=true;
 				}else
 				{
@@ -24,7 +24,7 @@ function two() {
 function three() {
 	
 	if(a==false){
-				document.getElementById('nd3').style.height="95px";
+				document.getElementById('nd3').style.height="100px";
 				a=true;
 				}else
 				{
